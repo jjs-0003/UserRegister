@@ -8,7 +8,7 @@
     </head>
 <body>
     <center>
-        <h1>登録完了</h1><br>
+        <h1>登録完了</h1>
         <hr>
         以下の内容で登録します。<br> 名 前 :
         <%=(String) session.getAttribute("name")%><br> <br>
